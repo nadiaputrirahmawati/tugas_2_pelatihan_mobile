@@ -1,3 +1,4 @@
-# my_app_firebase
+# Tugas 2 Pelatihan Mobile (Flutter)
 
-A new Flutter project.
+##### Nama : Nadia Putri Rahmawati 
+##### Nim : 2230511065
