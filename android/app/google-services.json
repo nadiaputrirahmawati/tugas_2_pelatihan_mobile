@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1069989675436",
+    "project_id": "pelatihanmobile-45f66",
+    "storage_bucket": "pelatihanmobile-45f66.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069989675436:android:c93af053b1765c775cfa09",
+        "android_client_info": {
+          "package_name": "com.example.my_app_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq97JyGNzbPHYwUlol_igadQLkJHxCIFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
